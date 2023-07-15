@@ -1,0 +1,15 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\wk-algoritmo-estudos\wk-c#\primeiro\primeiro\primeiro\bin\Debug\net6.0\primeiro.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\wk-algoritmo-estudos\wk-c#\primeiro\primeiro\primeiro\bin\Debug\net6.0\primeiro.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\wk-algoritmo-estudos\wk-c#\primeiro\primeiro\primeiro\bin\Debug\net6.0\primeiro.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\wk-algoritmo-estudos\wk-c#\primeiro\primeiro\primeiro\bin\Debug\net6.0\primeiro.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\wk-algoritmo-estudos\wk-c#\primeiro\primeiro\primeiro\bin\Debug\net6.0\primeiro.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\wk-algoritmo-estudos\wk-c#\primeiro\primeiro\primeiro\obj\Debug\net6.0\primeiro.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\wk-algoritmo-estudos\wk-c#\primeiro\primeiro\primeiro\obj\Debug\net6.0\primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\wk-algoritmo-estudos\wk-c#\primeiro\primeiro\primeiro\obj\Debug\net6.0\primeiro.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\wk-algoritmo-estudos\wk-c#\primeiro\primeiro\primeiro\obj\Debug\net6.0\primeiro.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\wk-algoritmo-estudos\wk-c#\primeiro\primeiro\primeiro\obj\Debug\net6.0\primeiro.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\wk-algoritmo-estudos\wk-c#\primeiro\primeiro\primeiro\obj\Debug\net6.0\primeiro.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\wk-algoritmo-estudos\wk-c#\primeiro\primeiro\primeiro\obj\Debug\net6.0\refint\primeiro.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\wk-algoritmo-estudos\wk-c#\primeiro\primeiro\primeiro\obj\Debug\net6.0\primeiro.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\wk-algoritmo-estudos\wk-c#\primeiro\primeiro\primeiro\obj\Debug\net6.0\primeiro.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\wk-algoritmo-estudos\wk-c#\primeiro\primeiro\primeiro\obj\Debug\net6.0\ref\primeiro.dll
