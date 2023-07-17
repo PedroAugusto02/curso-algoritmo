@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1689622882 source:c:\users\pedro\onedrive\Área de trabalho\wk-algoritmo-estudos\wk-c\entrada-de-dados\main.c
+	<stdio.h>
+	<string.h>
+
