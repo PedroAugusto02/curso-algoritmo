@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1689708720 source:c:\users\pedro\onedrive\Área de trabalho\wk-algoritmo-estudos\wk-c\exercicios\retangulo\main.c
+	<stdio.h>
+	<math.h>
+
