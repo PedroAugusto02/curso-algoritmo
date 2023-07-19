@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1689789133 source:c:\users\pedro\onedrive\Área de trabalho\wk-algoritmo-estudos\wk-c\exercicios\baskara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
